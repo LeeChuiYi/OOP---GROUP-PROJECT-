@@ -1,0 +1,38 @@
+/*using System;
+
+using Nma
+hellooooooooooo
+<<<<<<< HEAD
+FKAGFIwhoefihEOIEFHf
+<<<<<<< HEAD
+mimmimimimimin
+=======
+mimmimimimimim
+UHIUSDOOAGOIADGNEGN
+IRGRG\
+DLGIJSEJGPOA
+DLFGJARGJOPAW
+LRGNALGAW
+>>>>>>> 16d84b7b2c454dd1a7cca4cc440fac1dc83dc157
+=======
+>>>>>>> 4c9a10e4549410abfcc3be5d08e7e1f69ab3c8f2
+
+<<<<<<< HEAD
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Employee_Attendance
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
+=======
+
+>>>>>>> 4c9a10e4549410abfcc3be5d08e7e1f69ab3c8f2*/
